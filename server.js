@@ -18,9 +18,9 @@ const server = app.listen(process.env.PORT || 3000, () => {
   )
 })
 
-app.use('/', (req, res) => {
-  res.send('Hello from TicTacTrip API')
-})
 app.use('/api', justifyRoutes)
+app.use('/', (req, res) => {
+      res.send('Hello from TicTacTrip API')
+})
 
 module.exports = server
