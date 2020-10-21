@@ -21,4 +21,4 @@ Rédaction d'une api permettant de justifier du text
 # Routes
 /token - send an email in plain text and the server will give you a token for 80 000 words/per day
 <br>
-/justify - send the text that you what to justify and we will return it to you (justifiedText field)
+/justify - send the text that you want to justify and we will return it to you (justifiedText field)
