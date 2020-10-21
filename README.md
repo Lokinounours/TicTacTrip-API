@@ -13,7 +13,8 @@ Rédaction d'une api permettant de justifier du text
 
 > - You can test the app with -> npm test
 
-# An online version might also be available:
+# An online version might also be available at:
+> - https://tictactrip-api.herokuapp.com/
 
 <br>
 
